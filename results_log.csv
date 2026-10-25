@@ -1,0 +1,2 @@
+time,model,test_size,seed,train_frac,dedup,ngram,min_df,max_feat,stop,class_wt,C,nb_alpha,threshold,n_train,n_test,features,accuracy,precision,recall,f1,train_f1,TN,FP,FN,TP
+08:13:07,lr,0.2,42,1.0,True,1-2,2,,,balanced,1.0,-,0.5,4128,1032,10050,0.9806,0.903,0.9453,0.9237,0.9731,891,13,7,121
